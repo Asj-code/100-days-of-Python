@@ -53,3 +53,5 @@ elif selection == 2 and computer_selection == 1:
   print("You win")
 else:
   print("It's a draw!")
+
+# Rock, Paper, Scissor game
